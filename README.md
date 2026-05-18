@@ -35,7 +35,7 @@ A modern full-stack e-commerce web application built using the MERN Stack with s
 ### Clone the repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/AbhinayBari/MERN-E-commerce-Website.git>
 ```
 
 ### Frontend Setup
